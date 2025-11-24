@@ -2,7 +2,7 @@
 
 O **InfoMundo** é uma aplicação web interativa (SPA) que permite explorar informações detalhadas sobre países de todo o mundo. O projeto consome dados da [REST Countries API](https://restcountries.com/) e oferece funcionalidades de busca, filtragem, favoritos e comparação de dados demográficos.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Exploração Global:** Visualize cartões com bandeiras e informações básicas de todos os países.
 - **Busca e Filtros:** Pesquise por nome ou filtre por continentes (regiões).
@@ -10,7 +10,7 @@ O **InfoMundo** é uma aplicação web interativa (SPA) que permite explorar inf
 - **Comparação:** Selecione até 4 países para comparar população e área territorial em gráficos interativos.
 - **Design Responsivo:** Interface moderna e adaptável para desktop e mobile.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React** (Vite + TypeScript)
 - **Tailwind CSS** (Estilização)
@@ -18,7 +18,7 @@ O **InfoMundo** é uma aplicação web interativa (SPA) que permite explorar inf
 - **Lucide React** (Ícones)
 - **REST Countries API** (Dados)
 
-## 📦 Como rodar localmente
+## Como rodar localmente
 
 1. Clone o repositório:
    ```bash
@@ -40,7 +40,7 @@ O **InfoMundo** é uma aplicação web interativa (SPA) que permite explorar inf
    npm run dev
    ```
 
-## ☁️ Deploy no Vercel
+## Deploy no Vercel
 
 Este projeto está configurado para deploy contínuo.
 1. Crie um novo projeto no [Vercel](https://vercel.com).
