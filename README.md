@@ -22,7 +22,7 @@ O **InfoMundo** é uma aplicação web interativa (SPA) que permite explorar inf
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/infomundo.git
+   git clone https://github.com/Cristianonasc97/InfoMundo.git
    ```
 
 2. Entre na pasta do projeto:
